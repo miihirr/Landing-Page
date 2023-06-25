@@ -96,3 +96,25 @@ img{
     width: 266px;
     text-align: center;
 }
+.quotesection{
+    height: 400px;
+    background-color: #E5E7EB;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 32px 0px;
+}
+.quotesection p{
+    font-size: 36px;
+    font-style:italic;
+    color: #1F2937;
+    width: 70%;
+    text-align: center;
+}
+.quotesection span{
+    align-self: flex-end;
+    margin-right: 163px;
+    font-size: 32px;
+    font-weight: bold;
+}
