@@ -74,3 +74,25 @@ img{
     border: none;
     font-weight: bold;
 }
+.box img{
+    max-height: 180px;
+    border-radius: 14px;
+}
+.title{
+    text-align: center;
+    font-size: 46px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin: 20px 8px;
+    padding: 4px;
+    font-weight: bold;
+}
+.boxes{
+    display: flex;
+    justify-content: center;
+    gap: 38px;
+
+}
+.box p{
+    width: 266px;
+    text-align: center;
+}
